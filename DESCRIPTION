@@ -1,0 +1,15 @@
+Package: Friedman
+Title: Determines Whether Subject Passes Or Fails
+Version: 0.0.0.9000
+Authors@R: 
+    person("Matthew", "Newbold", , "mnewbold@usf.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A system that takes input and determines whether a student passes or fails. 
+    This process accepts inputs of "TRUE" or "FALSE" regarding a student's results.
+    It then generates a reply appropriate to whether the student succeeds or fails.
+Depends: R (>= 4.1.1) 
+License: CC0
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
